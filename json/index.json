@@ -1,0 +1,32 @@
+{
+    "title": "UEFA Champions League",
+    "link": "http://es.uefa.com/uefachampionsleague/",
+    "description": "Liga de campeones de Europa",
+    "language": "es",
+    "items": [
+        {
+            "title" : "Avengers: Endgame",
+            "personajes"  : "Thanos, Iron Man, Capitán America, Thor, Viuda Negra, Spider Man, Pantera Negra, Bruce Banner, Doctor Strange, Clint Barton, Hombre Hormiga, Bruja Escarlata, etc.",
+            "sinopsis" : "Es una película de superhéroes estadounidense de 2019 basada en el grupo Los Vengadores de Marvel Comics, fue producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures. Es la vigesimosegunda película del Universo cinematográfico de Marvel (MCU por sus siglas en inglés) y secuela directa de la película de 2018 Avengers: Infinity War. Está dirigida por Anthony y Joe Russo, con un guion escrito por Christopher Markus y Stephen McFeely, y cuenta con un reparto coral de múltiples actores que anteriormente habían estado en otras franquicias del Universo cinematográfico de Marvel.",
+            "director": "Directores: Joe Russo, Anthony Russo."
+        },
+        {
+            "title": "Iron Man 3",
+            "personajes": "Iron Man, Aldrich Killian, Bruce Banner, Mandarín, Pepper Potts, Trevor Slattery, Máquina de Guerra, etc.",
+            "sinopsis" : "Es una película de superhéroes estadounidense de 2013 basada en el personaje de Marvel Comics Iron Man, producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures en colaboración con Paramount Pictures. Es la tercera y última entrega de la Trilogía de Iron Man, y la séptima película en el Universo cinematográfico de Marvel (MCU). La película es dirigida por Shane Black, que escribió el guion con Drew Pearce, y es protagonizada por Robert Downey Jr. como Tony Stark / Iron Man, junto a Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stéphanie Szostak, James Badge Dale, Jon Favreau y Ben Kingsley. En Iron Man 3, Tony Stark lucha con las ramificaciones de los eventos de The Avengers, durante una campaña nacional de terrorismo en los Estados Unidos al mando del misterioso Mandarín.",
+            "director": "Director: Shane Black."
+        },
+        {
+            "title": "Black Widow",
+            "personajes": "Viuda Negra, Viuda Negra (Yelena Belova), Thunderbolt Ross, Tony Stark, Rick Mason, etc.",
+            "sinopsis" : "Es una próxima película estadounidense de superhéroes basada en el personaje de Marvel del mismo nombre y confirmada oficialmente en la Convención Internacional de Cómics de San Diego de 2019. Producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures, está programada para ser la vigésima cuarta película en el Universo cinematográfico de Marvel. La cinta está dirigida por Cate Shortland, escrita por Jac Schaeffer y Ned Benson, y protagonizada por Scarlett Johansson como Natasha Romanoff / Viuda Negra, junto a Florence Pugh, David Harbour, Rachel Weisz, O. T. Fagbenle y Ray Winstone.",
+            "director": "Directora: Cate Shortland."
+        },
+        {
+            "title": "Avengers: Age of Ultron",
+            "personajes": "Ultron, Iron Man, Bruja Escarlata, Bruce Banner, Thor, Viuda Negra, Capitan America, Laura Barton, Loki, Klaw, Dra. Helen Cho, VIernes, Falcon, etc.",
+            "sinopsis" : "Es una película de superhéroes estadounidense de 2015 basada en el equipo de Marvel Comics los Vengadores, producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures. Es la secuela de The Avengers (2012) y la undécima película del Universo cinematográfico de Marvel (MCU). La película fue escrita y dirigida por Joss Whedon, y cuenta con un reparto coral que incluye a Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Don Cheadle, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, Anthony Mackie, Hayley Atwell, Idris Elba, Stellan Skarsgård, James Spader y Samuel L. Jackson. En Avengers: Age of Ultron, los Vengadores combaten a Ultrón, una inteligencia artificial obsesionada con causar la extinción humana.",
+            "director": "<strong>Director:</strong> Joss Whedon."
+        }
+    ]
+}

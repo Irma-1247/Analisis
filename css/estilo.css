@@ -1,0 +1,16 @@
+html{
+	background-color: #E5BA5E;
+}
+.img{
+	height: 300px;
+}
+h1{
+	background-color: #572200;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: center;
+}
+div{
+	text-align: justify;
+}
